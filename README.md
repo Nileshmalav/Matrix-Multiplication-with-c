@@ -3,6 +3,8 @@
 this is a simple code which can find any matrix mutliplication
 
 
+You Need To First Open Matrix Multiplication.c File And then Run it
+
 In first line of output of this code INPUT: you need to enter ther dimentions of matrixes a,b,c of matrixes axb,bxc
 eg: 5 4 3
 https://drive.google.com/file/d/1n5Nq0dRAQuzqqe3APSqZlRrDlZhlouTE/view?usp=sharing
