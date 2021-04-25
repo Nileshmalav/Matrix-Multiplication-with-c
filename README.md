@@ -1,6 +1,13 @@
 # Matrix-Multiplication-with-c
 
 this is a simple code which can find any matrix mutliplication
+https://onlinegdb.com/rksQlaGw_
+open above link select c as language and then click run
+
+https://drive.google.com/file/d/1n5Nq0dRAQuzqqe3APSqZlRrDlZhlouTE/view?usp=sharing
+
+
+or
 
 
 You Need To First Open Matrix Multiplication.c File And then Run it
